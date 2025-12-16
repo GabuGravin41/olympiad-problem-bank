@@ -1,0 +1,5 @@
+{
+  "name": "Olympiad Forge",
+  "description": "An AI-powered platform for crafting, refining, and verifying IMO-level mathematical olympiad problems using Gemini 3.0 Pro.",
+  "requestFramePermissions": []
+}
